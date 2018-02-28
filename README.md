@@ -1,4 +1,4 @@
-# jpz10: give geographical names to z=10 tiles
+geographical names to z=10 tiles
 
 name | tile number | name:ja
 --- | --- | ---
